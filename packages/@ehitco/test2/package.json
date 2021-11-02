@@ -1,0 +1,29 @@
+{
+  "name": "test2",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "ehitco <aiden@ehnote.cn>",
+  "homepage": "https://github.com/ehitco/lerna-vite-vue3#readme",
+  "license": "ISC",
+  "main": "lib/test2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehitco/lerna-vite-vue3.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/ehitco/lerna-vite-vue3/issues"
+  }
+}

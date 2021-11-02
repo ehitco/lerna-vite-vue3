@@ -2,7 +2,9 @@
   "npmClient": "yarn",
   "useWorkspaces": true,
   "packages": [
-    "packages/*"
+    "packages/@ehitco/*",
+    "packages/vue3-demo",
+    "packages/test/*"
   ],
   "version": "0.0.0"
 }
