@@ -1,0 +1,11 @@
+{
+  "name": "lerna-vite-vues",
+  "private": true,
+  "workspaces": [
+    "packages/@ehitco/*",
+    "packages/test/*"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
